@@ -34,13 +34,9 @@ def arrayDeArray(texto_toarr, max_exp):
     acum=0
     cont=0
     for i in texto_toarr:
-        # print("Esto es IIIIIIII--------------------------------------------------------", i)
         temp_max=max_exp
         for j in i:
-            
-            #print("Esto es JJJJJJJJJJJJJJJJJJJJJJJJJJJ:", j)
-            #print(string.ascii_lowercase.index(j))
-            #valornum= int(string.ascii_lowercase.index(i))
+
             temp_max =temp_max-1
            # print("Exponente",temp_max)
             if (temp_max < 0):
