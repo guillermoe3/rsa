@@ -1,6 +1,6 @@
 # rsa
 
-Trabajo de RSA para Seguridad Informatica. 
+Trabajo de RSA para Seguridad Informatica.  
 Alumno: Guillermo Esquivel. 
 
 Aclaraciones: 
